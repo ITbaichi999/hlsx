@@ -4,7 +4,7 @@ window.settings = {
   // 站点名称
   title: '荷鲁斯加速器',
   // 站点描述
-  description: '荷鲁斯',
+  description: '官网cf.ihls.top',
   assets_path: '/assets',
   // 主题色
   theme: {
