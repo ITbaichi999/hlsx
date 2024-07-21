@@ -15,5 +15,5 @@ window.settings = {
   // 登陆背景
   background_url: 'https://ihls.top/App/beijing.png',
   // 站点LOGO
-  logo: '',
+  logo: 'https://vip.ihorus.org/logohls.png',
 }
