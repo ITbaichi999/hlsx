@@ -1,5 +1,5 @@
 // API地址
-window.routerBase = 'https://vip.ihls.top/'
+window.routerBase = 'https://hls.355m.cn/'
 window.settings = {
   // 站点名称
   title: '荷鲁斯加速器',
