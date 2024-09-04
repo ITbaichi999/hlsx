@@ -13,7 +13,7 @@ window.settings = {
   // 版本号
   version: '0.1.1-dev',
   // 登陆背景
-  background_url: 'https://ihls.top/App/beijing.png',
+  background_url: 'https://eva.ihls.top/App/beijing.png',
   // 站点LOGO
   logo: 'https://vip.ihorus.org/logohls.png',
 }
