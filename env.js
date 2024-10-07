@@ -1,5 +1,5 @@
 // API地址
-window.routerBase = 'https://hls.355m.cn/'
+window.routerBase = 'https://net399.wbuz.cn/'
 window.settings = {
   // 站点名称
   title: '荷鲁斯加速器',
