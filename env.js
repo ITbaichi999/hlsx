@@ -1,5 +1,5 @@
 // API地址
-window.routerBase = 'https://vip9.jmvks.cn/'
+window.routerBase = 'https://lovechina.mingri.icu/'
 window.settings = {
   // 站点名称
   title: '荷鲁斯加速器',
