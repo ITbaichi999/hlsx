@@ -13,7 +13,7 @@ window.settings = {
   // 版本号
   version: '0.1.1-dev',
   // 登陆背景
-  background_url: 'https://vip.yeye8.top/App/beijing.png',
+  background_url: 'https://apple.ihorus.org/App/beijing.png',
   // 站点LOGO
-  logo: 'https://vip.yeye8.top/logohls.png',
+  logo: 'https://apple.ihorus.org/logohls.png',
 }
