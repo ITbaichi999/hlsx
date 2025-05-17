@@ -1,5 +1,5 @@
 // API地址
-window.routerBase = 'https://lovechina.mingri.icu/'
+window.routerBase = 'https://hls.herefor.top/'
 window.settings = {
   // 站点名称
   title: '荷鲁斯加速器',
