@@ -1,5 +1,5 @@
 // API地址
-window.routerBase = 'https://vip.8088.eu.org/'
+window.routerBase = 'https://fu789.nlwghu.cn/'
 window.settings = {
   // 站点名称
   title: '荷鲁斯加速器',
